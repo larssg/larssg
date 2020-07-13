@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I've been working with Ruby / Rails since 2006, .NET since the public beta in 2000 and some PHP on and off since 1997.
+
+Currently learning Elixir / Phoenix, hoping to use it for some future projects.
+
+Reach me at @larssg or lars@sehested.me.
 
 <!--
 **larssg/larssg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
