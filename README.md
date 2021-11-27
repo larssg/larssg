@@ -2,8 +2,6 @@
 
 I've been working with Ruby / Rails since 2006, .NET since the public beta in 2000 and some PHP on and off since 1997.
 
-Currently learning Elixir / Phoenix, hoping to use it for some future projects.
-
 Reach me at @larssg or lars@sehested.me.
 
 <!--
